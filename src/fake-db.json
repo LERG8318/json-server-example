@@ -1,0 +1,35 @@
+{
+  "user": [
+    {
+      "name": "Park Bo-young",
+      "age": 30,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/151003_%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C_%EB%8F%8C%EC%97%B0%EB%B3%80%EC%9D%B4_%EC%95%BC%EC%99%B8_%EB%AC%B4%EB%8C%80%EC%9D%B8%EC%82%AC_%28Park_Bo-young%29.jpg/170px-151003_%EB%B6%80%EC%82%B0%EA%B5%AD%EC%A0%9C%EC%98%81%ED%99%94%EC%A0%9C_%EB%8F%8C%EC%97%B0%EB%B3%80%EC%9D%B4_%EC%95%BC%EC%99%B8_%EB%AC%B4%EB%8C%80%EC%9D%B8%EC%82%AC_%28Park_Bo-young%29.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "P001",
+      "name": "The Web Developer Bootcamp",
+      "description": "The only course you need to learn web development - HTML, CSS, JS, Node, and More!",
+      "author": "Colt Steele",
+      "imageURL": "https://img-a.udemycdn.com/course/240x135/625204_436a_2.jpg",
+      "price": "299"
+    },
+    {
+      "id": "P0002",
+      "name": "Angular - The Complete Guide (2020 Edition)",
+      "description": "Master Angular 9 (formerly Angular 2) and build awesome, reactive web apps with the successor of Angular.js",
+      "author": "Maximilian Schwarzmüller",
+      "imageURL": "https://img-a.udemycdn.com/course/240x135/756150_c033_2.jpg",
+      "price": "200"
+    },
+    {
+      "id": "P0003",
+      "name": "The Complete JavaScript Course 2020: Build Real Projects!",
+      "description": "Master JavaScript with the most complete course! Projects, challenges, quizzes, JavaScript ES6+, OOP, AJAX, Webpack",
+      "author": "Jonas Schmedtmann",
+      "imageURL": "https://img-a.udemycdn.com/course/240x135/851712_fc61_5.jpg",
+      "price": "150"
+    }
+  ]
+}

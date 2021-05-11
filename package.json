@@ -1,0 +1,16 @@
+{
+  "name": "json-server-for-fake-api",
+  "version": "1.0.0",
+  "description": "Create Dummy API with Json Server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "json-server": "0.16.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.18.4"
+  },
+  "keywords": []
+}
